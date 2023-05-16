@@ -49,10 +49,11 @@ const About = () => {
                 variants={fadeIn("", "", 0.2, 1)}
                 className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
             >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-                libero eos placeat omnis. Fuga, maiores nesciunt. Voluptatibus
-                culpa, totam, ea commodi nobis, consequatur aperiam dignissimos
-                itaque necessitatibus molestias optio quae?
+                I'm a skilled front-end developer with experience in HTML, CSS,
+                JavaScript and in frameworks like React, Tailwind CSS and
+                Bootstrap. I am quick learner seeking a role as a front-end
+                developer so I can use my thorough knowledge of programming
+                frameworks and development software.
             </motion.p>
 
             <div className="mt-20 flex flex-wrap gap-10">

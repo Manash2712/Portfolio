@@ -1,8 +1,8 @@
 import { BrowserRouter } from "react-router-dom";
 import About from "./components/About";
 import Contact from "./components/Contact";
-import Experience from "./components/Experience";
-import Feedbacks from "./components/Feedbacks";
+// import Experience from "./components/Experience";
+// import Feedbacks from "./components/Feedbacks";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Tech from "./components/Tech";
@@ -18,7 +18,7 @@ const App = () => {
                     <Hero />
                 </div>
                 <About />
-                <Experience />
+                {/* <Experience /> */}
                 <Tech />
                 <Works />
                 {/* <Feedbacks /> */}
